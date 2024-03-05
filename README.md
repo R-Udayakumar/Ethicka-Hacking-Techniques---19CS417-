@@ -55,12 +55,12 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
        print(f"Received {data!r}")
 ```         
 ## OUTPUT:
-### Server side:
+### Server :
 ![client](https://github.com/Shree-Ram-R/Ethicka-Hacking-Techniques---19CS417-/assets/121288490/c167a5e2-075d-4c8d-b5c9-6cecbbc50512)
 
 
 
-### Client side:
+### Client :
 ![server](https://github.com/Shree-Ram-R/Ethicka-Hacking-Techniques---19CS417-/assets/121288490/d6767b96-12d5-40ec-9666-343b55f81908)
 
 ## RESULT:
