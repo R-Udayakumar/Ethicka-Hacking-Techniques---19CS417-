@@ -52,7 +52,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ```         
 ## OUTPUT:
 ### Server :
-![image](https://github.com/R-Udayakumar/Ethicka-Hacking-Techniques---19CS417-/assets/118708024/2b65d5c3-132c-4bcb-8289-f41d3a94580b)
+![image](https://github.com/R-Udayakumar/Ethicka-Hacking-Techniques---19CS417-/assets/118708024/f7c4e407-1205-4dc6-9007-84106408f117)
 
 ### Client :
 ![image](https://github.com/R-Udayakumar/Ethicka-Hacking-Techniques---19CS417-/assets/118708024/30c926f7-ba75-4573-a719-f0caf3f8b1a3)
