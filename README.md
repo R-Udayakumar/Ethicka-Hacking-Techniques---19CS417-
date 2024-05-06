@@ -59,4 +59,4 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 
 ## RESULT:
-The program is executed successfully
+Thus, the program to develop a simple webserver to serve html programming pages was executed successfully.
